@@ -16,3 +16,5 @@ https://github.com/WilliamDerby/Dashboard-Scanner360/issues/2#issue-2922303219
 # Descripción general4
 ![Prueba GIF Scanner](https://imgur.com/a/V6bQePR)
 
+# Descripción general4
+![Prueba GIF Scanner](https://private-user-images.githubusercontent.com/64511496/423143909-ba8e433e-fc1a-4f76-af2f-beece1e79477.gif)
