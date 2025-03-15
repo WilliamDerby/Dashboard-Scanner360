@@ -5,10 +5,10 @@ El usuario final de la herramienta son los ejecutivos de _Caja Los Andes_, quien
 
 Gracias a una disposición simplificada de indicadores, __Scanner360__ permite a los ejecutivos obtener una visión integral de la situación de sus clientes, analizando aspectos clave como:
 
-•	Indicadores de gestión.
-•	Uso de canales y productos.
-•	Nivel de satisfacción de empresas y trabajadores.
-•	Resumen demográfico.
+* Indicadores de gestión.
+* Uso de canales y productos.
+* Nivel de satisfacción de empresas y trabajadores.
+* Resumen demográfico.
 
 Esta estructura facilita la toma de decisiones estratégicas y mejora la relación con las empresas afiliadas.
 
