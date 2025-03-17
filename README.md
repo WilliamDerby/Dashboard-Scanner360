@@ -7,7 +7,7 @@ Gracias a una disposición simplificada de indicadores, __Scanner360__ permite a
 
 * Indicadores de gestión.
 * Uso de canales y productos.
-* Nivel de satisfacción de empresas y trabajadores.
+* Niveles de satisfacción.
 * Resumen demográfico.
 
 Esta estructura facilita la toma de decisiones estratégicas y mejora la relación con las empresas afiliadas.
