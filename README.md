@@ -1,5 +1,5 @@
 # Contexto Herramienta
-__Scanner360__ es una herramienta de visualización y análisis de datos desarrollada para _Caja Los Andes_, una empresa chilena de carácter público-privado con más de 3.000 trabajadores. Su modelo de negocio se basa en la afiliación de empresas, permitiendo que sus trabajadores accedan a una amplia gama de productos y beneficios. Actualmente, cuenta con aproximadamente 60.000 empresas afiliadas, representando a más de 4 millones de trabajadores.
+__Scanner360__ es una herramienta de visualización y análisis de datos desarrollada para _Caja Los Andes_, una empresa chilena de carácter público-privado con más de 3.000 trabajadores. Su modelo de negocio se basa en la afiliación de empresas, permitiendo que sus trabajadores accedan a una amplia gama de productos financieros y beneficios. Actualmente, cuenta con aproximadamente 60.000 empresas afiliadas, representando a más de 4 millones de trabajadores.
 
 El usuario final de la herramienta son los ejecutivos de _Caja Los Andes_, quienes se relacionan directamente con los gerentes de recursos humanos y sindicatos de las empresas afiliadas. A cada ejecutivo se le asigna una cartera de empresas con las que trabaja en conjunto para mejorar la calidad de vida de sus trabajadores a través de los beneficios y productos ofrecidos.
 
