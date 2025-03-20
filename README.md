@@ -14,4 +14,14 @@ Esta estructura facilita la toma de decisiones estratégicas y mejora la relaci�
 
 
 # Descripción general
+__Scanner360__ fue desarrollado en SQL sobre la plataforma BigQuery de GCP. La generación de indicadores se basa en diversas fuentes de datos, tanto internas como externas a _Caja los Andes_. Para ello, se aprovecha la automatización de las áreas de TI en la carga de datos a BigQuery mediante API y procesos ELT, lo que permite ejecutar consultas programadas y lograr un panel 100% automatizado. La visualización de gráficos e indicadores se realiza en Looker Studio.
+
+Como base del sistema, se creó un "maestro de empresas" (dejar consulta linkeada), que consolida mensualmente el cierre de cada empresa para todos los indicadores. Esta tabla actúa como un repositorio final de datos, permitiendo analizar su evolución en el tiempo.
+
+A partir de este maestro, se desarrollaron tres tipos de análisis que facilitan la gestión de la cartera de clientes empresariales en distintos ámbitos:
+* Scanner Cartera
+* Scanner Empresas, Holding, Centro de Cotización y Dar Cuenta
+* Caracterización
+
+# Scanner Cartera
 ![Prueba GIF Scanner](https://raw.githubusercontent.com/WilliamDerby/Dashboard-Scanner360/refs/heads/main/GIFs/PruebaScanner2.gif)
