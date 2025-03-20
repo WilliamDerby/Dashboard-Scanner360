@@ -12,7 +12,6 @@ Gracias a una disposición simplificada de indicadores, __Scanner360__ permite a
 
 Esta estructura facilita la toma de decisiones estratégicas y mejora la relación con las empresas afiliadas.
 
-
 # Descripción general
 __Scanner360__ fue desarrollado en SQL sobre la plataforma BigQuery de GCP. La generación de indicadores se basa en diversas fuentes de datos, tanto internas como externas a _Caja los Andes_. Para ello, se aprovecha la automatización de las áreas de TI en la carga de datos a BigQuery mediante API y procesos ELT, lo que permite ejecutar consultas programadas y lograr un panel 100% automatizado. La visualización de gráficos e indicadores se realiza en Looker Studio.
 
@@ -22,6 +21,8 @@ A partir de este maestro, se desarrollaron tres tipos de análisis que facilitan
 * Scanner Cartera
 * Scanner Empresas, Holding, Centro de Cotización y Dar Cuenta
 * Caracterización
+
+__Dado que Scanner360 es una herramienta de uso corporativo, el acceso libre a Looker Studio no es posible. Para solucionar esta limitación, se han incorporado animaciones originales. Además, en las lógicas compartidas para la creación de indicadores, se han modificado los nombres de las tablas para garantizar la confidencialidad de la institución.__
 
 # Scanner Cartera
 ![Prueba GIF Scanner](https://raw.githubusercontent.com/WilliamDerby/Dashboard-Scanner360/refs/heads/main/GIFs/PruebaScanner2.gif)
