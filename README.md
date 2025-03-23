@@ -1,4 +1,4 @@
-# Scanner360: Visualización y Análisis de Datos para Caja Los Andes
+# Scanner360: Visualización y Análisis de Datos
 
 ⚠ Importante:
 Scanner360 es una herramienta corporativa, por lo que no tiene acceso público. Para solucionar esta limitación, se han incorporado animaciones originales y se han modificado los nombres de las tablas para garantizar la confidencialidad de la información.
