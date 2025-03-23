@@ -1,26 +1,71 @@
-# Contexto Herramienta
-__Scanner360__ es una herramienta de visualización y análisis de datos desarrollada para _Caja Los Andes_, una empresa chilena de carácter público-privado con más de 3.000 trabajadores. Su modelo de negocio se basa en la afiliación de empresas, permitiendo que sus trabajadores accedan a una amplia gama de productos financieros y beneficios. Actualmente, cuenta con aproximadamente 60.000 empresas afiliadas, representando a más de 4 millones de trabajadores.
+# Scanner360 - Plataforma de Visualización y Análisis  
 
-El usuario final de la herramienta son los ejecutivos de _Caja Los Andes_, quienes se relacionan directamente con los gerentes de recursos humanos y sindicatos de las empresas afiliadas. A cada ejecutivo se le asigna una cartera de empresas con las que trabaja en conjunto para mejorar la calidad de vida de sus trabajadores a través de los beneficios y productos ofrecidos.
+![Scanner360](https://via.placeholder.com/800x400.png?text=Scanner360+Dashboard)  
 
-Gracias a una disposición simplificada de indicadores, __Scanner360__ permite a los ejecutivos obtener una visión integral de la situación de sus clientes, analizando aspectos clave como:
+## 📌 Contexto  
+Scanner360 es una herramienta desarrollada para **Caja Los Andes**, permitiendo a sus ejecutivos gestionar **60.000 empresas afiliadas** y más de **4 millones de trabajadores**. Resuelve la falta de sistematización en plataformas internas, proporcionando una **visión integral** de los clientes mediante:  
+✅ **Indicadores de gestión**  
+✅ **Uso de productos y canales**  
+✅ **Nivel de satisfacción**  
+✅ **Resumen demográfico**  
 
-* Indicadores de gestión.
-* Uso de canales y productos.
-* Niveles de satisfacción.
-* Resumen demográfico.
+---  
 
-Esta estructura facilita la toma de decisiones estratégicas y mejora la relación con las empresas afiliadas.
+## ⚙️ Descripción General  
+💾 **Tecnología:** SQL sobre **BigQuery (GCP)** y visualización en **Looker Studio**  
+📊 **Datos:** Integración de fuentes internas y externas mediante procesos **ELT/API**  
+📂 **Estructura:** Un **"Maestro de Empresas"** consolida indicadores y permite su análisis evolutivo  
 
-# Descripción general
-__Scanner360__ fue desarrollado en SQL sobre la plataforma BigQuery de GCP. La generación de indicadores se basa en diversas fuentes de datos, tanto internas como externas a _Caja los Andes_. Para ello, se aprovecha la automatización de las áreas de TI en la carga de datos a BigQuery mediante API y procesos ELT, lo que permite ejecutar consultas programadas y lograr un panel 100% automatizado. La visualización de gráficos e indicadores se realiza en Looker Studio.
+---  
 
-Como base del sistema, se creó un "maestro de empresas" (dejar consulta linkeada), que consolida mensualmente el cierre de cada empresa para todos los indicadores. Esta tabla actúa como un repositorio final de datos, permitiendo analizar su evolución en el tiempo.
+## 🔎 Funcionalidades Clave  
+### 🔹 Scanner Cartera  
+![Scanner Cartera](https://via.placeholder.com/800x400.png?text=Scanner+Cartera)  
+📌 **Prioriza empresas según criticidad** con puntajes basados en:  
+✔️ Visitas de ejecutivos  
+✔️ Bloqueo de crédito  
+✔️ Propensión de fuga  
+✔️ Alertas y notificaciones externas  
+💡 Filtros por ejecutivo, sucursal y líder de gestión  
 
-A partir de este maestro, se desarrollaron tres tipos de análisis que facilitan la gestión de la cartera de clientes empresariales en distintos ámbitos:
-* Scanner Cartera
-* Scanner Empresas, Holding, Centro de Cotización y Dar Cuenta
-* Caracterización
+### 🔹 Caracterización  
+📌 Centraliza **datos demográficos, uso de beneficios y productos** para estrategias segmentadas  
+
+### 🔹 Scanner Empresas  
+![Scanner Empresas](https://via.placeholder.com/800x400.png?text=Scanner+Empresas)  
+📌 Dashboard con **indicadores de bienestar y gestión** comparados con empresas similares  
+📌 Incluye módulos para **Holdings y Centros de Cotización**  
+
+### 🔹 Análisis Detallado de Indicadores  
+📌 Cada indicador tiene un dashboard específico con mayor nivel de detalle y filtros avanzados  
+
+### 🔹 Dar Cuenta  
+📌 Versión resumida de indicadores clave para ser compartidos con las empresas  
+📌 **85% de las 13.000 empresas** con ejecutivo asignado lo recibieron en 2024  
+
+---  
+
+## 📅 Plan 2025  
+🔹 Desarrollo de un **pack de tres indicadores clave** por empresa basado en necesidades detectadas  
+🔹 Seguimiento automatizado en **Scanner360**  
+
+⚠ **Acceso restringido:** Looker Studio no es público, por lo que se han incluido animaciones y ajustes para proteger la confidencialidad de la información.  
+
+---  
+
+## 📥 Instalación y Uso  
+1. **Acceso restringido** a usuarios de Caja Los Andes.  
+2. Contactar al área de TI para habilitación en Looker Studio.  
+3. La información se actualiza automáticamente mediante procesos ELT en BigQuery.  
+
+---  
+
+## 📧 Contacto  
+📩 Para dudas o sugerencias, contactar a: **[correo@cajalosandes.cl](mailto:correo@cajalosandes.cl)**  
+
+---  
+
+🚀 **Scanner360 - Optimizando la gestión empresarial en Caja Los Andes**
 
 __Dado que Scanner360 es una herramienta de uso corporativo, el acceso libre a Looker Studio no es posible. Para solucionar esta limitación, se han incorporado animaciones originales. Además, en las lógicas compartidas para la creación de indicadores, se han modificado los nombres de las tablas para garantizar la confidencialidad de la institución.__
 
