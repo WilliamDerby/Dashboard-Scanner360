@@ -8,7 +8,7 @@ __Scanner360__ es una herramienta desarrollada para _Caja Los Andes_, empresa ch
 
 * Indicadores de gestión
 * Indicadores de Bienestar
-* Resumen demográfico
+* Indicadores demográficos
 
 Esta estructura facilita la toma de decisiones estratégicas y fortalece la relación con las empresas afiliadas.
 
