@@ -30,7 +30,7 @@ A partir de este maestro, se desarrollaron tres tipos de análisis clave para la
 ### 🔹 Scanner Cartera  
 Esta herramienta permite priorizar las empresas según su nivel de criticidad para ser atendidas. La priorización se basa en una lógica de puntajes considerando indicadores clave de bienestar, tales como:
 
-* Cantidad, tipo, calidad y satisfacción de visitas de los ejecutivos
+* Cantidad, calidad, tipo, y satisfacción de visitas de los ejecutivos. 
 * Bloqueo de crédito
 * Modelo de clúster de afiliados según cercanía/lejanía
 * Modelo de propensión de fuga
