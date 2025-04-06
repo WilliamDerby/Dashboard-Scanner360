@@ -17,7 +17,7 @@ Esta estructura facilita la toma de decisiones estratégicas y fortalece la rela
 ## ⚙️ Descripción General
 Scanner360 fue desarrollado en __SQL__ sobre __BigQuery (GCP)__. La generación de indicadores se basa en múltiples fuentes de datos, tanto internas como externas a Caja Los Andes. Para ello, se utiliza la automatización de procesos __ELT/API__ para la carga de datos en BigQuery, lo que permite ejecutar consultas programadas y generar un __panel 100% automatizado en Looker Studio__.
 
-Los indicadores se construyen desde el identificador único de cada persona (rut persona) para garantizar la trazabilidad y confiabilidad de la información. Luego de un extenso proceso de transformacion, se resumen los datos de los trabajadores de cada empresa para obtener indicadores. Finalmente se consolidan en __maestro empresas__.
+Los indicadores se construyen desde el identificador único de cada ciudadano (rut persona) para garantizar la trazabilidad y confiabilidad de la información. Luego de un proceso de transformacion, se resumen los datos de los trabajadores para obtener indicadores por cada empresa. Finalmente se consolidan estos indicadores en un __maestro empresas__.
 
 A partir de este maestro, se desarrollaron tres tipos de análisis clave para la gestión de clientes empresariales:
 * Scanner Cartera
