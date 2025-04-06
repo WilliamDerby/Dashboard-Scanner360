@@ -32,7 +32,7 @@ Esta herramienta permite priorizar las empresas según su nivel de criticidad pa
 
 * Cantidad, calidad, tipo, y satisfacción de visitas de los ejecutivos. 
 * Bloqueo de crédito
-* Modelo de clúster de afiliados según cercanía/lejanía
+* Modelo de clúster cercanía/lejanía
 * Modelo de propensión de fuga
 * Alertas levantadas por ejecutivos y notificaciones externas (Estados de Vigilancia)
   
