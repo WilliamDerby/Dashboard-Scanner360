@@ -38,9 +38,9 @@ Esta herramienta permite priorizar las empresas según su nivel de criticidad pa
   
 Incorpora filtros por cada agente que maneja grupos de empresas, desde el nivel ejecutivo, pasando por sucursal y líder de gestión.
 
-(Incorporar Script)
+[CODIGO SCANNER CARTERA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/Codigos/Scanner%20Cartera.sql)
 
-![Descripción del GIF](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Cartera2.gif)
+![GIF SCANNER CARTERA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Cartera2.gif)
 
 ---
 
