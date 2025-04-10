@@ -48,7 +48,8 @@ Incorpora filtros por cada agente que maneja grupos de empresas, desde el nivel 
 Herramienta que centraliza **datos demográficos, uso de beneficios, productos y canales** para estrategias segmentadas  
 
 (Incorporar Script)
-(Incorporar Visualizacion)
+
+![GIF CARACTERIZACION](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Caracterizacion.gif)
 
 ---
 
