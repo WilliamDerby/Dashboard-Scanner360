@@ -40,7 +40,10 @@ Incorpora filtros por cada agente que maneja grupos de empresas, desde el nivel 
 
 (Incorporar Script)
 (Incorporar Visualizacion)
+
 ![Descripción del GIF](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Cartera.gif)
+
+![Descripción del GIF](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Cartera2.gif)
 
 ---
 
