@@ -66,7 +66,8 @@ Adicionalmente, se han desarrollado dashboards para:
 * Holding Centro de Cotización: Empresas con subdivisiones internas que requieren gestiones diferenciadas
 
 (Incorporar Script)
-(Incorporar Visualizacion)
+
+![GIF SCANNER CARTERA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Empresas.gif)
 
 ---
 
