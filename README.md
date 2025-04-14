@@ -47,7 +47,7 @@ Incorpora filtros por cada agente que maneja grupos de empresas, desde el nivel 
 ### 🔹 Caracterización 
 Herramienta que centraliza **datos demográficos, uso de beneficios, productos y canales** para estrategias segmentadas  
 
-[CODIGO SCANNER CARTERA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/Codigos/Codigo%20Caracterizacion.sql)
+[CODIGO CARACTERIZACION AFILIADOS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/Codigos/Codigo%20Caracterizacion.sql)
 
 ![GIF CARACTERIZACION](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Caracterizacion.gif)
 
@@ -65,9 +65,9 @@ Adicionalmente, se han desarrollado dashboards para:
 * Scanner Holding: Visualización de empresas con gestión centralizada
 * Holding Centro de Cotización: Empresas con subdivisiones internas que requieren gestiones diferenciadas
 
-(Incorporar Script)
+[CODIGO CALCULO INDICADOR PENETRACION BENEFICIOS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/Codigos/Penetracion%20Beneficios%20por%20Empresa%20y%20Segmento.sql)
 
-![GIF SCANNER CARTERA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Empresas.gif)
+![GIF SCANNER EMPRESAS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Empresas.gif)
 
 ---
 
