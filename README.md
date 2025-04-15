@@ -85,7 +85,7 @@ Tras la implementación de Scanner360, los ejecutivos identificaron la necesidad
 
 Fue presentado al **85% de las 13.000 empresas** con ejecutivo asignado en 2024.
 
-(Incorporar Visualizacion)
+![GIF DAR CUENTA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Dar%20Cuenta.gif)
 
 ---
 
