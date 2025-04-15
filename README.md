@@ -74,8 +74,9 @@ Adicionalmente, se han desarrollado dashboards para:
  ### 🔹 Análisis Detallado de Indicadores  
 Cada indicador tiene un dashboard específico con mayor nivel de detalle y filtros avanzados  
 
-(Incorporar Script)
-(Incorporar Visualizacion)
+[CODIGO CONSOLIDADO USO BENEFICIOS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/Codigos/Consolidado%20Uso%20Beneficios.sql)
+
+![GIF DETALLE SCANNER](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Detalle%20Scanner.gif)
 
 ---
 
