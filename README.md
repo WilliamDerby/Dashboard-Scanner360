@@ -67,7 +67,7 @@ Adicionalmente, se han desarrollado dashboards para:
 
 [CODIGO CALCULO INDICADOR PENETRACION BENEFICIOS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/Codigos/Penetracion%20Beneficios%20por%20Empresa%20y%20Segmento.sql)
 
-![GIF SCANNER EMPRESAS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Empresas.gif)
+![GIF SCANNER EMPRESAS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Empresas2.gif)
 
 ---
 
