@@ -12,6 +12,7 @@ __Scanner360__ es una herramienta desarrollada para _Caja Los Andes_, empresa ch
 
 Esta estructura facilita la toma de decisiones estratégicas y fortalece la relación con las empresas afiliadas.
 
+
 --- 
 
 ## ⚙️ Descripción General
@@ -23,6 +24,7 @@ A partir de este maestro, se desarrollaron tres tipos de análisis clave para la
 * Scanner Cartera
 * Caracterización
 * Scanner Empresas (Aperturado en Holding, Centro de Cotización y Dar Cuenta)
+
 
 ---
 
@@ -42,6 +44,7 @@ Incorpora filtros por cada agente que maneja grupos de empresas, desde el nivel 
 
 ![GIF SCANNER CARTERA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Cartera2.gif)
 
+
 ---
 
 ### 🔹 Caracterización 
@@ -50,6 +53,7 @@ Herramienta que centraliza **datos demográficos, uso de beneficios, productos y
 [CODIGO CARACTERIZACION AFILIADOS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/Codigos/Codigo%20Caracterizacion.sql)
 
 ![GIF CARACTERIZACION](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Caracterizacion.gif)
+
 
 ---
 
@@ -69,6 +73,7 @@ Adicionalmente, se han desarrollado dashboards para:
 
 ![GIF SCANNER EMPRESAS](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Scanner%20Empresas2.gif)
 
+
 ---
 
  ### 🔹 Análisis Detallado de Indicadores  
@@ -78,6 +83,7 @@ Cada indicador tiene un dashboard específico con mayor nivel de detalle y filtr
 
 ![GIF DETALLE SCANNER](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Detalle%20Scanner.gif)
 
+
 ---
 
 ### 🔹 Dar Cuenta  
@@ -86,6 +92,7 @@ Tras la implementación de Scanner360, los ejecutivos identificaron la necesidad
 Fue presentado al **85% de las 13.000 empresas** con ejecutivo asignado en 2024.
 
 ![GIF DAR CUENTA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Dar%20Cuenta.gif)
+
 
 ---
 
