@@ -105,5 +105,7 @@ Actualmente se esta desarrollando:
 * Desarrollo de un **pack de tres indicadores clave** por empresa basado en necesidades detectadas
 * Seguimiento automatizado en **Scanner360**  
 
-(Incorporar Visualizacion)
+![GIF DAR CUENTA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Dar%20Cuenta%20Resultados.gif)
+
+
 
