@@ -105,7 +105,18 @@ Actualmente se esta desarrollando:
 * Desarrollo de un **pack de tres indicadores clave** por empresa basado en necesidades detectadas
 * Seguimiento automatizado en **Scanner360**  
 
-![GIF DAR CUENTA](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Dar%20Cuenta%20Resultados.gif)
+![GIF PLAN TRABAJO](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Dar%20Cuenta%20Resultados.gif)
 
+---
+---
 
+## ✅ Resultados Obtenidos
+
+Esta herramienta fue desarrollada como asesoría interna para el área comercial, respondiendo a una necesidad histórica: comprender mejor a los clientes empresa y medir la gestión de los ejecutivos. 
+
+La estandarización del análisis ha permitido que incluso ejecutivos sin experiencia previa en el uso de estrategias basadas en datos puedan tomar decisiones más concretas y respaldadas, demostrando a los clientes el impacto de los servicios entregados. Esto ha contribuido a una mayor satisfacción del cliente y ha facilitado la identificación de acciones necesarias para alcanzarla.
+
+En el último trimestre de 2024, fue utilizada intensivamente por hasta 230 colaboradores semanales. Actualmente, el uso se ha estabilizado en torno a los 50 usuarios por semana.
+
+![GIF Impacto Herramienta](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Dar%20Cuenta%20Resultados.gif)
 
