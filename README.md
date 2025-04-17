@@ -118,5 +118,5 @@ La estandarización del análisis ha permitido que incluso ejecutivos sin experi
 
 En el último trimestre de 2024, fue utilizada intensivamente por hasta 230 colaboradores semanales. Actualmente, el uso se ha estabilizado en torno a los 50 usuarios por semana.
 
-![GIF Impacto Herramienta](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Dar%20Cuenta%20Resultados.gif)
+![GIF Impacto Herramienta](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/GIFs/Uso%20Scanner.gif)
 
